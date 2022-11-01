@@ -1,6 +1,6 @@
 #include<iostream>
 
-// Burhanuddin sahil
+
 using namespace std;
 
 int alloc[50][50];
